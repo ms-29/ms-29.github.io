@@ -1,0 +1,3 @@
+baseURL = 'https://ms-29.com'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
