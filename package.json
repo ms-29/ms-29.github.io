@@ -1,0 +1,23 @@
+{
+  "name": "ms-29.github.io",
+  "version": "1.0.0",
+  "description": "Personal Blog",
+  "scripts": {
+    "build": "tailwindcss -i ./src/tailwind.css -o ./assets/style.css --minify",
+    "watch": "tailwindcss -i ./src/tailwind.css -o ./assets/style.css --minify --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ms-29/ms-29.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ms-29/ms-29.github.io/issues"
+  },
+  "homepage": "https://github.com/ms-29/ms-29.github.io#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.2.4"
+  }
+}
