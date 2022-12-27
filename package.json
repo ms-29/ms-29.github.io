@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "Personal Blog",
   "scripts": {
-    "build": "tailwindcss -i ./src/tailwind.css -o ./assets/style.css --minify",
-    "watch": "tailwindcss -i ./src/tailwind.css -o ./assets/style.css --minify --watch"
+    "build": "tailwindcss -i ./src/tailwind.css -o ./assets/css/style.css --minify",
+    "watch": "tailwindcss -i ./src/tailwind.css -o ./assets/css/style.css --minify --watch"
   },
   "repository": {
     "type": "git",
